@@ -1,0 +1,13 @@
+{
+  // Linting rules for the organization profile Markdown.
+  // See https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+  "config": {
+    "default": true,
+    // GitHub renders long lines fine; profile copy is prose, not code.
+    "MD013": false,
+    // Allow the top-level document to omit a single H1 (profile/README uses one).
+    "MD041": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AffordaCare GitHub Profile",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "markdown-preview",
+      "command": "npm run preview"
+    }
+  ],
+  "ports": [3000]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "affordacare-github-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Development tooling for the AffordaCare Insurance GitHub organization profile.",
+  "type": "module",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules\"",
+    "preview": "node scripts/preview.mjs"
+  },
+  "devDependencies": {
+    "markdown-it": "^14.1.0",
+    "markdownlint-cli2": "^0.14.0"
+  }
+}
