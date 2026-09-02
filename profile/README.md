@@ -12,5 +12,5 @@ AffordaCare Insurance is a Dallas, TX-based insurance brokerage focused on helpi
 
 Our public GitHub presence and technical initiatives are supported by **WRLD**:
 
-- https://wrld.tech
-- https://wrld.one
+- [wrld.tech](https://wrld.tech)
+- [wrld.one](https://wrld.one)
